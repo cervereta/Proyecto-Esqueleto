@@ -8,6 +8,8 @@
 body {
     min-width: 600px;
     /* max-width: 1000px; */
+    background-color: #333;
+    color: white;
 }
 
 header {
